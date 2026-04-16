@@ -33,4 +33,4 @@ if __name__ == "__main__":
     #     train(timesteps)
 
     # Watch the best one (highest timesteps)
-    watch(f"cartpole_ppo_10k")
+    watch(f"cartpole_ppo_100k")

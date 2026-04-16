@@ -17,3 +17,7 @@ logs/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
+
+minesweeper/wandb/*
+.claude/*
